@@ -1,0 +1,10 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j1phplfUkt-F1EAB3ieH1liY7MD_GvOg3Q&usqp=CAU);
+}
+.divs {
+  width: 400px;
+  text-align: center;
+  color: pink;
+  border: 2px solid pink;
+  
+}
